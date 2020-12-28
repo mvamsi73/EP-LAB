@@ -1,0 +1,39 @@
+form
+{
+  color:black
+}
+h3.name{
+  color:green
+}
+h3.num{
+  color:green
+}
+h3.mail{
+  color:green
+}
+h3.pass{
+  color:green
+}
+h3.game{
+  color:red
+}
+h3.gender{
+  color:red
+}
+h3.sub{
+  color:red
+}
+h3.address{
+  color:red
+}
+table.t1
+{
+  color:black
+}
+input.in
+{
+  color:hotpink
+}
+body {
+  background-image: url("bg11.png");
+}
