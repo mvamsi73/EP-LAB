@@ -10,21 +10,21 @@
         var pass=document.f1.b.value;
         if(user=="")
         {
-          alert("The User Name is Empty");
+          alert('The User Name is Empty');
         }
-        if(pass=="")
+        else if(pass=="")
         {
           alert("The Password is Empty");
         }
-        if(user.length<8)
+        else if(user.length<8)
         {
           alert("Your User-Name is less than 8 characters");
         }
-        if(pass.length<8)
+        else if(pass.length<8)
         {
           alert("Your Password is less than 8 characters");
         }
-        if(user==pass)
+        else if(user==pass)
         {
           alert("Welcome "+user);
         }
