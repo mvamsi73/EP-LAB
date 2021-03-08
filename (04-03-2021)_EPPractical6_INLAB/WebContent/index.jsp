@@ -52,7 +52,7 @@ function validate()
 <tr><td>Enter Your Name</td><td><input type="text" name="name"></td></tr>
 <tr><td>Enter Your Email</td><td><input type="text" name="email"></td></tr>
 <tr><td>Enter Your Phone Number</td><td><input type="text" name="phnum"></td></tr>
-<tr><td>Enter Your PassworD</td><td><input type="text" name="pass"></td></tr>
+<tr><td>Enter Your Password</td><td><input type="password" name="pass"></td></tr>
 <tr><td><input type="submit"></td></tr>
 </table>
 </form>
